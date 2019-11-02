@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ParApp</string>
+    <string name="profil">Profil</string>
+    <string name="logo">logo</string>
+    <string name="aldo_octaviandry">AldoOP</string>
+    <string name="gambar_detail">gambar</string>
+    <string name="nama_makanan">Makanan</string>
+    <string name="detail_makanan">Detail Makanan</string>
+    <string name="nomor_induk">no induk</string>
+    <string name="move_phone">telpon</string>
+    <string name="move_app">pindah</string>
+    <string name="move_alamat">alamat</string>
+    <string name="bahasa">bahasa</string>
+    <string name="indonesia">indonesia</string>
+    <string name="inggris">inggris</string>
+    <string name="jepang">jepang</string>
+    <string name="prancis">prancis</string>
+</resources>
